@@ -3,7 +3,7 @@
 struct Node{
 	int nValue;
 	Node* pNext;
-	Node(){}
+	Node():pNext(NULL){}
 	Node(int x):nValue(x),pNext(NULL){}
 };
 
