@@ -11,7 +11,8 @@
 #include<map>
 #include<set>
 #include<cmath>
-
+#include<string>
+#include<sstream>
 using namespace std;
 
 #endif 	Packdef_H
